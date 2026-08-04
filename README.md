@@ -64,17 +64,6 @@ web-studio/
 
 ## 🚀 Запуск проекта
 
-1.  **Клонировать репозиторий:**
-    ```bash
-    git clone https://github.com/mrMoish/web-studio.git
-    ```
-2.  **Перейти в папку проекта:**
-    ```bash
-    cd web-studio
-    ```
-3.  **Открыть в браузере:**
-    Для просмотра достаточно открыть файл `index.html` в любом современном браузере.
-
-    Для удобной разработки можно использовать расширение **Live Server** в редакторе VS Code.
+[web-studio-neon.vercel.app](web-studio-neon.vercel.app)
 
 ---
