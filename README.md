@@ -64,6 +64,6 @@ web-studio/
 
 ## 🚀 Запуск проекта
 
-[web-studio-neon.vercel.app](web-studio-neon.vercel.app)
+[web-studio-neon.vercel.app](https://web-studio-neon.vercel.app)
 
 ---
